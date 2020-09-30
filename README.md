@@ -1,4 +1,5 @@
 ![eflyer](https://d21ii91i3y6o6h.cloudfront.net/gallery_images/from_proof/2236/medium/1413860642/javascript.png)
+ECMAScript 6 (ES6) introduces a new type of literal, namely template literals. They have many features, variable interpolation among others, but most importantly for this question, they can be multiline.
 
 
 # Trilha JavaScript | Opensanca Developer
